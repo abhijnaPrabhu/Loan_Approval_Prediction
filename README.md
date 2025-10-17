@@ -1,6 +1,5 @@
 # Loan_Approval_Prediction
 Logistic Regression model to predict loan approval status based on applicant data.
-# Loan Approval Prediction
 
 A simple machine learning project using Logistic Regression to predict whether a loan will be approved based on applicant information.
 
